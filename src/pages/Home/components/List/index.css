@@ -1,0 +1,32 @@
+.list {
+  align-items: center;
+}
+
+.list-input-wrapper {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.list-add-button {
+  justify-content: center;
+  align-items: center;
+  width: 150rpx;
+  height: 100rpx;
+  margin-left: 20rpx;
+  border-radius: 10px;
+  background-color: #dcdcdc;
+}
+
+.list-input {
+  width: 100%;
+  height: 100rpx;
+  line-height: 96rpx;
+  font-size: 64rpx;
+  border-width: 1px;
+  border-color: #dcdcdc;
+}
+
+.list-item-wrapper {
+  width: 100%;
+}
